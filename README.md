@@ -1,6 +1,6 @@
-# 📊 Sales & Financial Performance Dashboard
+## 📊 Global Sales & Financial Performance Dashboard
 
-A Power BI dashboard built during the **Microsoft Elevate Power BI Virtual Internship** (4-week program), analyzing sales performance and financial data to surface key business insights through interactive visualizations.
+A Power BI dashboard built during the **Microsoft Elevate Power BI Virtual Internship** (4-week program).This project is an interactive Power BI dashboard created to analyze sales and financial performance using a sample financial dataset. The goal of this project was to practice data analysis, data modeling, and dashboard design by transforming raw data into meaningful business insights.
 
 ---
 
@@ -8,33 +8,52 @@ A Power BI dashboard built during the **Microsoft Elevate Power BI Virtual Inter
 
 | File | Description |
 |------|-------------|
-| `Sales_Report_-_26Feb.pbix` | Power BI dashboard file |
-| `Financial_Sample.xlsx` | Source dataset used for the report |
+| `Sales_Dashboard_Report` | Power BI dashboard file |
+| `Finance_Report_Copy.xlsx` | Source dataset used for the report |
 
 ---
 
 ## 🖥️ Dashboard Overview
 
-This report was developed as part of a hands-on internship session to practice real-world Power BI skills. It explores sales and financial trends using Microsoft's sample financial dataset, covering metrics like revenue, profit, units sold, and segment/country-level breakdowns.
+- The dashboard analyzes key business metrics such as sales, profit, and units sold across different products, countries, and business segments.
+
+- The purpose of the report is to help understand:
+
+- How sales vary across regions
+
+- Which segments generate higher revenue
+
+- Profit performance over time
+
+- The report uses interactive visuals to allow users to filter and explore the data easily.
 
 ---
 
 ## ✨ Key Features
 
-- **Sales Performance Analysis** — Track revenue and units sold across products and regions
-- **Profit & Loss Breakdown** — Visualize gross profit, COGS, and net earnings
-- **Segment & Country Filters** — Slice data by business segment and geography
-- **Time-based Trends** — Month-over-month and year-over-year comparisons
-- **Interactive Visuals** — Drill-downs, slicers, and cross-filtering across report pages
+- **Sales Analysis**
+Track revenue and units sold across different products and regions.
+
+- **Profit Insights**
+Visualize profit, cost of goods sold (COGS), and overall financial performance.
+
+- **Segment Analysis**
+Compare performance across business segments such as Government, Small Business, and Enterprise.
+
+- **Country-wise Performance**
+Identify which countries contribute the most to sales and profit.
+
+- **Interactive Dashboard**
+Includes slicers and filters to dynamically explore the data.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Power BI Desktop**
-- **Microsoft Excel** (source data)
-- **DAX** (Data Analysis Expressions) for calculated measures
-- **Power Query** for data transformation and modeling
+- **Microsoft Excel** (Dataset)
+- **DAX** for calculated measures
+- **Power Query** for data cleaning and transformation
 
 ---
 
@@ -54,18 +73,21 @@ Topics covered during the program:
 ## 🚀 Getting Started
 
 1. Clone or download this repository
-2. Open `Sales_Report_-_26Feb.pbix` in **Power BI Desktop**
-3. If prompted, reconnect the data source to `Financial_Sample.xlsx`
+2. Open `Sales_Dashboard_Report` in **Power BI Desktop**
+3. If prompted, reconnect the data source to `Finance_Report_Copy.xlsx`
 4. Explore the dashboard using the built-in slicers and filters
 
 > **Note:** Power BI Desktop is free to download from [Microsoft's official site](https://powerbi.microsoft.com/desktop/).
 
 ---
 
-## 📬 Contact
+## 📸 Dashboard Preview
+![alt text](Finance_Dashboard_Report-1.png)
 
-Feel free to connect if you have feedback or questions!
+---
 
-E-mail : viswanathansk49@gmail.com
+## 👩‍💻 Author
+Ch.Deekshith
 
-LinkedIn : www.linkedin.com/in/viswanathan-sivakumar
+Aspiring Data Analyst
+Power BI | Data Visualization | Data Analytics

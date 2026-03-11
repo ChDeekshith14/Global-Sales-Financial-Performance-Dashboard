@@ -86,6 +86,13 @@ Topics covered during the program:
 
 ---
 
+## 💬 Feedback
+
+If you have any suggestions or feedback on how this dashboard can be improved or what additional insights could be explored, I would love to hear your thoughts.
+Constructive feedback is always appreciated.
+
+---
+
 ## 👩‍💻 Author
 Ch.Deekshith
 

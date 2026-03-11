@@ -82,7 +82,7 @@ Topics covered during the program:
 ---
 
 ## 📸 Dashboard Preview
-![alt text](Finance_Dashboard_Report-1.png)
+![image alt](https://github.com/ChDeekshith14/Global-Sales-Financial-Performance-Dashboard/blob/87d5f15f22751448ef16e01de78a19e6a0ec036f/Finance_Dashboard_Report.png)
 
 ---
 
@@ -90,4 +90,5 @@ Topics covered during the program:
 Ch.Deekshith
 
 Aspiring Data Analyst
+
 Power BI | Data Visualization | Data Analytics
